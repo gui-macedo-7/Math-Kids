@@ -1,6 +1,7 @@
 # 🎓 MATH 4 KIDS 🧮
 
 **MATH 4 KIDS** é um projeto educativo interativo voltado para ajudar crianças a aprenderem operações matemáticas de maneira divertida! 🚀
+
 [![gif math4-kids](https://imgur.com/NDdeTO3.gif)](https://gui-macedo-7.github.io/Math-Kids/)
 
 ## 💡 Funcionalidades
